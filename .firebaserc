@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "cordoffitty",
+    "prod": "cordoffitty"
+  },
+  "targets": {}
+}

@@ -1,0 +1,8 @@
+{
+  "appId": "com.cordoffitty.app",
+  "appName": "Cordoffitty Operator",
+  "bundledWebRuntime": false,
+  "npmClient": "yarn",
+  "webDir": "www",
+  "server": {}
+}
